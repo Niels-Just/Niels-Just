@@ -41,7 +41,7 @@ Software Engineering Student at SDU
 
 ---
 
-<div align="center">
+
 
 ```diff
 + ┌─────────────────────────────────────────────────────┐
