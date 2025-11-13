@@ -20,7 +20,11 @@ Software Engineering Student at SDU
 +  ╚═══════════════════════════════════════════════════════════╝
 ```
 
-**COMFORTABLE**
+```diff
++ ┌──────────────────────────────────────────────────────────┐
++ │  COMFORTABLE                                             │
++ └──────────────────────────────────────────────────────────┘
+```
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -29,7 +33,11 @@ Software Engineering Student at SDU
 │  ▓▓▓▓▓▓▓▓░░  Basic usage
 ```
 
-**CURRENTLY LEARNING**
+```diff
++ ┌──────────────────────────────────────────────────────────┐
++ │  CURRENTLY LEARNING                                      │
++ └──────────────────────────────────────────────────────────┘
+```
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
