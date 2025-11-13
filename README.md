@@ -29,9 +29,7 @@ Software Engineering Student at SDU
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-```
-│  ▓▓▓▓▓▓▓▓░░  Basic usage
-```
+### `▓▓▓▓▓▓▓▓░░  Basic usage`
 
 ```diff
 + ┌──────────────────────────────────────────────────────────┐
@@ -45,9 +43,7 @@ Software Engineering Student at SDU
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-```
-│  ▓▓░░░░░░░░  New
-```
+### `▓▓░░░░░░░░  New`
 
 ---
 
@@ -68,6 +64,8 @@ Software Engineering Student at SDU
 </div>
 
 ---
+
+<div align="center">
 
 ```diff
 + ┌─────────────────────────────────────────────────────┐
