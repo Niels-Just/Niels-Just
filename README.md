@@ -9,7 +9,7 @@
 
 ```
 Software Engineering Student at SDU
-3rd Semester 
+4th Semester 
 ```
 
 ---
